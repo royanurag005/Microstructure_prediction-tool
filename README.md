@@ -34,11 +34,11 @@ To run this application locally, follow these steps:
    git clone https://github.com/royanurag005/Microstructure_prediction-tool.git
 
 2. Navigate to the project directory:
-
+   ```bash
    cd Microstructure_prediction-tool
 
 3. Install dependencies:
-
+   ```bash
    pip install -r requirements.txt
 
 4. Set up environment variables:
@@ -46,13 +46,13 @@ To run this application locally, follow these steps:
    Create a .env file in the project root.
 
 5. Add your Google API key:
-
+ 
    GOOGLE_API_KEY=your_google_api_key
 
    Save the file.
 
 6. Run the Streamlit app:
-
+   ```bash
    streamlit run app.py
 
 7. Access the app in your web browser at http://localhost:8501.
@@ -67,7 +67,8 @@ Anurag Roy
 GitHub: @royanurag005
 Email: anuragroy2002.ju.mme@gmail.com
 
-                                                                Developed by Anurag Roy with ❤️
+
+Brewed by Anurag Roy with ❤️
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
          
     
